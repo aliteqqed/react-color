@@ -1,12 +1,12 @@
 {
-  "name": "react-color",
+  "name": "react-color-ali",
   "version": "2.19.3",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casesandberg/react-color.git"
+    "url": "git+https://github.com/aliteqqed/react-color.git"
   },
   "author": "case <case@casesandberg.com>",
   "license": "MIT",
