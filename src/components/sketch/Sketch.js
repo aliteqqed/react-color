@@ -120,13 +120,6 @@ export const Sketch = ({ width, rgb, hex, hsv, hsl, onChange, onSwatchHover,
         </div>
       </div>
 
-      <SketchFields
-        rgb={ rgb }
-        hsl={ hsl }
-        hex={ hex }
-        onChange={ onChange }
-        disableAlpha={ disableAlpha }
-      />
       <SketchPresetColors
         colors={ presetColors }
         onClick={ onChange }
