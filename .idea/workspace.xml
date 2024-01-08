@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06652499-831d-4a62-ba54-1095e24726d6" name="Changes" comment="feat: changes">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Compact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Photoshop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Swatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/Twitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/alpha/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/alpha/AlphaPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/alpha/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/block/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/block/BlockSwatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/block/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/block/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/Chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/ChromeFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/ChromePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/ChromePointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/chrome/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/circle/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/circle/CircleSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/circle/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/circle/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Checkboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/ColorWrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/EditableInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Raised.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Saturation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/Swatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/common/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/compact/Compact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/compact/CompactColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/compact/CompactFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/compact/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/compact/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/github/Github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/github/GithubSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/github/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/github/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/GoogleFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/GooglePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/GooglePointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/google/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/hue/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/hue/HuePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/hue/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/material/Material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/material/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/material/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/Photoshop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/PhotoshopButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/PhotoshopFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/PhotoshopPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/PhotoshopPointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/PhotoshopPreviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/photoshop/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/sketch/Sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/sketch/SketchFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/sketch/SketchPresetColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/sketch/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/sketch/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/slider/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/slider/SliderPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/slider/SliderSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/slider/SliderSwatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/slider/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/swatches/Swatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/swatches/SwatchesColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/swatches/SwatchesGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/swatches/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/swatches/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/twitter/Twitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/twitter/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/components/twitter/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/checkboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/saturation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/helpers/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Compact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Photoshop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Swatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Twitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/alpha/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/alpha/AlphaPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/alpha/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/block/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/block/BlockSwatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/block/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/block/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/Chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/ChromeFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/ChromePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/ChromePointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/chrome/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/circle/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/circle/CircleSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/circle/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/circle/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Checkboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/ColorWrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/EditableInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Raised.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Saturation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/Swatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/common/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/compact/Compact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/compact/CompactColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/compact/CompactFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/compact/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/compact/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/github/Github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/github/GithubSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/github/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/github/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/GoogleFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/GooglePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/GooglePointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/google/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/hue/Hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/hue/HuePointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/hue/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/material/Material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/material/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/material/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/Photoshop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/PhotoshopButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/PhotoshopFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/PhotoshopPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/PhotoshopPointerCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/PhotoshopPreviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/photoshop/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/sketch/Sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/sketch/SketchFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/sketch/SketchPresetColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/sketch/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/sketch/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/slider/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/slider/SliderPointer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/slider/SliderSwatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/slider/SliderSwatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/slider/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/swatches/Swatches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/swatches/SwatchesColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/swatches/SwatchesGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/swatches/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/swatches/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/twitter/Twitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/twitter/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/twitter/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/alpha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/checkboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/hue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/saturation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aliteqqed&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f7185549-22c3-48f9-a231-1e39fa58939c" />
+        <option name="url" value="https://github.com/aliteqqed/react-color.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2afEFm4yUy9XfXPm4cWb2GNuhOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.google.cloudcode.ide_session_index": "20240108_0002",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.storybook.executor": "Run",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06652499-831d-4a62-ba54-1095e24726d6" name="Changes" comment="" />
+      <created>1704701131457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704701131457</updated>
+      <workItem from="1704701132677" duration="1589000" />
+      <workItem from="1704702733841" duration="791000" />
+      <workItem from="1704713121001" duration="252000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: changes">
+      <option name="closed" value="true" />
+      <created>1704701614734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704701614734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: changes">
+      <option name="closed" value="true" />
+      <created>1704701931870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704701931870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: changes" />
+  </component>
+</project>
